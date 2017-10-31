@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Bellefair|Comfortaa|Crete+Round|Cutive+Mono|Forum|Saira:300|Josefin+Slab|Julius+Sans+One|Jura|Khand|Limelight|Montserrat+Alternates|Nixie+One|Oranienbaum|PT+Mono|Questrial|Righteous|Scope+One|Six+Caps|Slabo+13px|Ultra|Roboto:100|Dosis:200|Rajdhani:300');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+a {
+  font-family: 'Cutive Mono', monospace;
+  color: rgb(211, 211, 211);
+}
+
+.app {
+  background-image: url(../../images/SanFrancisco.png);
+  background-repeat: no-repeat;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: rgb(65, 65, 65);
+  font-family: 'Rajdhani', sans-serif;
+}
