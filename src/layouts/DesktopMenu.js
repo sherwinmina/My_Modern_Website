@@ -58,14 +58,7 @@ class DeskTopMenu extends Component {
           >
             PROJECTS
           </Link>
-          <Link
-            to="/Contact"
-            name="Contact"
-            className={activeItem === 'Contact' ? 'active-style' : null}
-            onClick={this.handleChange}
-          >
-            CONTACT
-          </Link>
+
           <a href="mailto:sherwinmina@yahoo.com">
             <FontAwesome
               style={{ color: 'cyan' }}

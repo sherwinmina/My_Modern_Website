@@ -16,9 +16,7 @@ const MenuContent = props => {
         <Link to="/Portfolio" onClick={props.closeMenu}>
           PORTFOLIO
         </Link>
-        <Link to="/Contact" onClick={props.closeMenu}>
-          CONTACT
-        </Link>
+
         <a href="mailto:sherwinmina@yahoo.com">
           <FontAwesome style={{ color: 'cyan' }} name="envelope-o" size="lg" />
         </a>
